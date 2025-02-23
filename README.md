@@ -6,7 +6,7 @@
 
 ### 1. Redis 服務器安裝
 - 下載並安裝 Redis for Windows：
-  - 方法1：通過 [Github Redis-Windows](https://github.com/microsoftarchive/redis/releases) 下載
+  - 方法1：通過 [Github Redis-Windows](https://github.com/microsoftarchive/redis/releases)或(https://github.com/tporadowski/redis/releases/tag/v5.0.14.1) 下載
   - 方法2：使用 Windows 套件管理器 (以管理員身份運行 PowerShell)：
     ```powershell
     winget install Redis
