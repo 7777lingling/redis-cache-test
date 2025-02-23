@@ -1,0 +1,27 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+.vscode/
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+## 本地配置文件
+appsettings.Development.json
+*.Development.json
+local.settings.json
+
+## 日誌文件
+*.log
+logs/
+
+## Redis 數據文件
+dump.rdb
+*.rdb 
